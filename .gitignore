@@ -1,0 +1,5 @@
+dataset/
+*.jpg
+*.parquet
+*.zip
+*.pdf
