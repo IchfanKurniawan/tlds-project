@@ -3,3 +3,4 @@ dataset/
 *.parquet
 *.zip
 *.pdf
+*.pkl
